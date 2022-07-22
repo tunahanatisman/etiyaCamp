@@ -1,4 +1,4 @@
-//Arkadaş sayı iki sayı birbirinin kendisi hariç bölenleri toplamına eşitse bu sayılara denir.
+
 function friendsNumber(firstNumber, secondNumber) {
     let biggerNumber;
     let sum1 = 0;
