@@ -1,4 +1,4 @@
-//Asal sayılar sadece kendine ve 1'e bölünebilen pozitif tam sayılardır.
+
 function findPrime(...sayi) {
     for (let j = 0; j < sayi.length; j++) {
 
